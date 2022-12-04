@@ -1,0 +1,121 @@
+{
+  "context": ["home", "notifications", "public"],
+  "expires_at": null,
+  "filter_action": "hide",
+  "keywords": [
+    {
+      "keyword": "Socceroos",
+      "whole_word": false
+    },
+    {
+      "keyword": "Gotiges",
+      "whole_word": false
+    },
+    {
+      "keyword": "Gotigers",
+      "whole_word": false
+    },
+    {
+      "keyword": "#Richmond",
+      "whole_word": false
+    },
+    {
+      "keyword": "#collingwood",
+      "whole_word": false
+    },
+    {
+      "keyword": "WorldCup",
+      "whole_word": false
+    },
+    {
+      "keyword": "World Cup",
+      "whole_word": false
+    },
+    {
+      "keyword": "#cycling",
+      "whole_word": true
+    },
+    {
+      "keyword": "football",
+      "whole_word": false
+    },
+    {
+      "keyword": "rugby",
+      "whole_word": false
+    },
+    {
+      "keyword": "cricket",
+      "whole_word": false
+    },
+    {
+      "keyword": "soccer",
+      "whole_word": false
+    },
+    {
+      "keyword": "netball",
+      "whole_word": false
+    },
+    {
+      "keyword": "basketball",
+      "whole_word": false
+    },
+    {
+      "keyword": "afl",
+      "whole_word": false
+    },
+    {
+      "keyword": "aflw",
+      "whole_word": false
+    },
+    {
+      "keyword": "sport",
+      "whole_word": false
+    },
+    {
+      "keyword": "#sportsball",
+      "whole_word": true
+    },
+    {
+      "keyword": "Hockey",
+      "whole_word": true
+    },
+    {
+      "keyword": "Tennis",
+      "whole_word": true
+    },
+    {
+      "keyword": "UFC",
+      "whole_word": false
+    },
+    {
+      "keyword": "#MMA",
+      "whole_word": true
+    },
+    {
+      "keyword": "Socceroo",
+      "whole_word": false
+    },
+    {
+      "keyword": "FIFA",
+      "whole_word": false
+    },
+    {
+      "keyword": "world cup",
+      "whole_word": false
+    },
+    {
+      "keyword": "Socceroo",
+      "whole_word": false
+    },
+    {
+      "keyword": "worldcup",
+      "whole_word": false
+    },
+    {
+      "keyword": "superbowl",
+      "whole_word": false
+    }
+  ],
+  "statuses": [],
+  "title": "Sportsball"
+}
