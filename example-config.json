@@ -1,0 +1,12 @@
+{
+  "instance_url": "https://mastodon.social",
+  "access_token": "REPLACEME",
+  "tags_export": "export/tags/",
+  "tags_import": "import/tags/",
+  "tags_import_url": "",
+  "tags_download": "downloads/tags/",
+  "filters_export": "export/filters/",
+  "filters_import": "import/filters/",
+  "filters_import_url": "",
+  "filters_download": "downloads/filters/"
+}
